@@ -1,0 +1,52 @@
+{
+    "game": [
+        {
+            "id": 1,
+            "img": "./assets/fc24.jpeg",
+            "jenis": "Playstation 4",
+            "nama": "Fifa 24"
+        },
+        {
+            "id": 2,
+            "img": "./assets/gtav.jpeg",
+            "jenis": [
+                "Playstation 4",
+                "Playstation 3"
+            ],
+            "nama": "GTA 5"
+        },
+        {
+            "id": 3,
+            "img": "./assets/efootball.jpg",
+            "jenis": [
+                "Playstation 4",
+                "Playstation 3"
+            ],
+            "nama": "E Football 2024"
+        },
+        {
+            "id": 4,
+            "img": "./assets/gow.jpeg",
+            "jenis": "Playstation 4",
+            "nama": "God Of War"
+        },
+        {
+            "id": 5,
+            "img": "./assets/mk11.jpeg",
+            "jenis": "Playstation 4",
+            "nama": "Mortal Kombat 11"
+        },
+        {
+            "id": 6,
+            "img": "./assets/wwe.jpg",
+            "jenis": "Playstation 3",
+            "nama": "WWE 2K17"
+        },
+        {
+            "id": 7,
+            "img": "./assets/jumpforce.jpg",
+            "jenis": "Playstation 4",
+            "nama": "Jump Force"
+        }
+    ]
+}
